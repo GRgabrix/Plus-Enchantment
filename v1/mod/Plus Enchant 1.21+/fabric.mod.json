@@ -1,0 +1,21 @@
+{
+	"schemaVersion":1,
+	"id":"plus_enchant",
+	"version":"1.0",
+	"name":"Plus Enchantment",
+	"description":"Allows you to combine all those enchantments that would not be possible in vanilla Minecraft.",
+	"authors":[
+		"GRgabrix"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/plus-enchantment",
+		"sources": "https://github.com/GRgabrix/Plus-Enchantment"
+	},
+	"license":"ARR",
+	"icon":"pack.png",
+	"environment":"*",
+	"depends": {
+		"minecraft":  ">=1.21",
+		"fabric-resource-loader-v0": "*"
+	}
+}

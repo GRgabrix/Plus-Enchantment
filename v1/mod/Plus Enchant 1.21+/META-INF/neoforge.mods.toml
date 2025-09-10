@@ -1,0 +1,12 @@
+modLoader = 'lowcodefml'
+loaderVersion = '[4.0.23,)'
+license = 'ARR'
+
+[[mods]]
+modId = 'plus_enchant'
+version = '1.0'
+displayName = 'Plus Enchantment'
+description = 'Allows you to combine all those enchantments that would not be possible in vanilla Minecraft.'
+logoFile = 'pack.png'
+authors = 'GRgabrix'
+displayURL = 'https://modrinth.com/mod/plus-enchantment'
